@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
+	// TODO: use constant for kursUSD and kursEUR
 	const kursUSD = 0.8503
 	const kursEUR = 1.18
 
